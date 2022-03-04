@@ -38,7 +38,7 @@ Missing Data We can use seaborn to create a simple heatmap
 
 # Data Cleaning
 
-Correlation
+#Correlation
 To check the Correlation using Heatmap
 
 ![image](https://user-images.githubusercontent.com/100595913/156792830-68c415ea-1beb-4eae-bb13-274a994d5dbe.png)
@@ -49,7 +49,8 @@ Replace the Missing Values & Replace the Null values
 
 To Detect and Handle the Outliers
 
-# To find the Outliers in the dataset Using Box plot
+# To find the Outliers in the dataset 
+# Using Box plot
 
 ![image](https://user-images.githubusercontent.com/100595913/156792969-54b4ee63-e702-4aa2-871a-4a433f9ae9e0.png)
 
