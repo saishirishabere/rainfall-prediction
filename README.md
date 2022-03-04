@@ -112,3 +112,4 @@ Feature scaling: StandardScaler
 Splitting to train and test: train_test_split
 Accuracy calculation & confusion matixs: metrics,confusion_matrix,accuracy_score,precision_score,recall_score,f1_score
 Algorithms: DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, GaussianNB, XGBClassifier
+d
