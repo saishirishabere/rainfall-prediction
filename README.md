@@ -25,7 +25,7 @@ In this EDA part I have to do the following steps.
 
 # Feature Engineering
 
-# Data Preprocessing
+Data Preprocessing
 Missing Data We can use seaborn to create a simple heatmap
 
 ![image](https://user-images.githubusercontent.com/100595913/156792691-44f7fb05-f69c-45e4-a4c2-56b92748d766.png)
