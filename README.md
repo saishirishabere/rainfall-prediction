@@ -25,8 +25,7 @@ In this EDA part I have to do the following steps.
 
 # Feature Engineering
 
-Data Preprocessing
-
+# Data Preprocessing
 Missing Data We can use seaborn to create a simple heatmap
 
 ![image](https://user-images.githubusercontent.com/100595913/156792691-44f7fb05-f69c-45e4-a4c2-56b92748d766.png)
@@ -37,10 +36,9 @@ Missing Data We can use seaborn to create a simple heatmap
 
 ![image](https://user-images.githubusercontent.com/100595913/156792739-e71709ed-b7ef-4360-9c01-965b0082570b.png)
 
-Data Cleaning
+# Data Cleaning
 
 Correlation
-
 To check the Correlation using Heatmap
 
 ![image](https://user-images.githubusercontent.com/100595913/156792830-68c415ea-1beb-4eae-bb13-274a994d5dbe.png)
