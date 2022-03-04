@@ -7,13 +7,13 @@ Design a predictive model with the use of machine learning algorithms to forecas
 The dataset is taken from Kaggle and contains about 10 years of daily weather observations from many locations across Australia.
 
 # Dataset Description:
-.Number of columns: 23
+Number of columns: 23
 
-.Number of rows: 145460
+Number of rows: 145460
 
-.Number of Independent Columns: 22
+Number of Independent Columns: 22
 
-.Number of Dependent Column: 1
+Number of Dependent Column: 1
 
 # Problem Statement:
 
