@@ -130,7 +130,7 @@ Classification Report, RUC-AUC curve
 # Comparative Analysis & Model Evaluation Evaluation
 
 ![image](https://user-images.githubusercontent.com/100595913/156795406-fae367a3-3275-490e-8b24-2b94183da2eb.png)
-Here, We applied Five Machine learning algorithms, We can conclude that Random Forest classifier performs the best with 85.40% accuracy
+# Here, We applied Five Machine learning algorithms, We can conclude that Random Forest classifier performs the best with 85.40% accuracy
 
 # Libraries used
 
