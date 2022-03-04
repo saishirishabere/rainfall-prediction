@@ -38,7 +38,9 @@ Missing Data We can use seaborn to create a simple heatmap
 ![image](https://user-images.githubusercontent.com/100595913/156792739-e71709ed-b7ef-4360-9c01-965b0082570b.png)
 
 Data Cleaning
+
 Correlation
+
 To check the Correlation using Heatmap
 
 ![image](https://user-images.githubusercontent.com/100595913/156792830-68c415ea-1beb-4eae-bb13-274a994d5dbe.png)
