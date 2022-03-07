@@ -134,13 +134,18 @@ Classification Report, RUC-AUC curve
 
 # Libraries used
 
-1Data Cleaning: Numpy, Pandas
-2Visualisation: Seaborn, Matplotlib
-3Feature scaling: StandardScaler
-4Splitting to train and test: train_test_split
-5Accuracy calculation & confusion matixs: metrics,confusion_matrix,accuracy_score,precision_score,recall_score,f1_score
-5Algorithms: DecisionTreeClassifier, RandomForestClassifier, 
-6LogisticRegression, GaussianNB, XGBClassifier
+Data Cleaning: Numpy, Pandas
+
+Visualisation: Seaborn, Matplotlib
+
+Feature scaling: StandardScaler
+
+Splitting to train and test: train_test_split
+
+Accuracy calculation & confusion matixs: metrics,confusion_matrix,accuracy_score,precision_score,recall_score,f1_score
+
+Algorithms: DecisionTreeClassifier, RandomForestClassifier, 
+LogisticRegression, GaussianNB, XGBClassifier
 
 
 
